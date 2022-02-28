@@ -1,0 +1,308 @@
+Translator’s Introduction
+
+Rongzom Chökyi Zangpo — who is also known by his Sanskrit name Dharmabhadra, his title as the
+‘Great Scholar’ Rongzom Mahāpaṇḍita, or simply Rongzompa — was one of the most important
+scholars and earliest systematizers of the Nyingma tradition. A genius polymath, he was both
+a lotsāwa, renowned for his exceptional Sanskrit-to-Tibetan translations, and an author
+of many original treatises. The texts he composed demonstrate a rare depth and breadth of
+erudition and cover topics ranging from Sanskrit grammar to agriculture and animal husbandry.[1]
+He is mostly remembered, however, for his lion-like defense of Nyingma scriptures,
+practices, and philosophy, all of which were under attack from adherents of the New Schools.
+His writings provide an exegetical foundation for Nyingma philosophy and served as an
+essential source of inspiration to his successors Longchen Rabjam (1308–1364) and Ju Mipham
+(1846–1912). The Nyingma tradition regards all three of these masters as omniscient (kun
+mkhyen), but as the earliest defender of the school, Rongzompa holds a unique position in
+its history.[2] A brief introduction to his life and times may shed further light on his
+status within the lineage and help to contextualize the brilliant, somewhat polemical, and
+highly distinctive text translated below.
+
+Read more
+
+function show_intro() {	document.getElementById('intro-readmore').style.display='none';	var
+e = document.getElementById('intro-hidden');	e.style.height = e.scrollHeight + "px";	return
+false;}		
+
+Alak Zenkar Rinpoché gives the Iron Dragon, 1040, as Rongzom’s birth year, though other sources,
+including Düdjom Jikdrel Yéshé Dorjé, say he was born in 1012.[3] Whichever the case,
+there is broad scholastic consensus that he thrived in the second half of the eleventh century
+and led a long and productive life, perhaps until as late as 1136. He was born in lower
+Tsang to a family of devoted lay Nyingma practitioners, and he eventually married and
+had three children who would receive and transmit his religious lineage.[4] At a time when
+masters such as Atiśa Dīpaṃkara Śrījñāna (982–1055?) and Dromtönpa Gyalwé Jungné (1004–1064)
+were stressing the importance of celibacy and strict monastic discipline, Rongzompa upheld
+Tibet’s centuries-old tradition of lay tantric practice and hereditary religious transmission.
+Such dynamics are emblematic of the unique cultural crucible of this period of Tibetan
+history and underpin the dynamic, and sometimes quite hostile, environment in which
+Rongzompa lived and wrote.From the late tenth to the middle of the eleventh century, new
+political bodies emerged in Tibet following the tumultuous Era of Fragmentation (sil bu’i
+dus) which began with the 842 collapse of the Tibetan Empire. Unlike the Imperial Period (btsan
+po’i dus rabs) in which centralized power was exercised over the whole of the Tibetan
+plateau, Rongzompa’s time saw the rise of kingdoms that were largely decentralized and far
+smaller – though many strove to recreate the visionary world of Tibet’s great Dharma Kings,
+with religious patronage and large-scale translation projects at the heart of their quest
+for political legitimacy. The most famous of this new constellation of cultural centres
+was the Western Tibetan kingdom of Purang-Guge (pu hrangs gu ge), ruled by Lha Lama Yeshe
+Ö and his nephew Jangchub Ö. Together, they sponsored the great translator Rinchen Zangpo
+(958-1055) in his studies in India and invited Atiśa from his seat in Vikramaśīla monastery
+to Tibet. These examples from Purang-Guge represent the broader cultural values of the
+time, as “pure” Buddhist lineages were imported from India and Nepal and the authenticity
+of Tibet’s existing imperial Buddhist lineages came into question. Giuseppe Tucci said that
+the “thinkers and ascetics” of this period “shed over the whole of Tibet a spiritual light
+which is not yet extinguished.”[5] Undoubtedly, this was an era of great cultural renaissance
+after more than a century of chaos, clan rivalry, and civil war. The vast treasury
+of Buddhist texts that entered Tibet at this time is still cherished nearly a thousand years
+later. However, this was also a moment of emergent polarization and conflict between
+the newly imported Buddhist traditions, the “New Ones” (gsar ma), and the posthumously labeled
+“Old Ones” or “Ancients” (rnying ma). This division was further reified as the upholders
+of the “later transmission” (phyi dar) or “later translations” (phyi 'gyur) questioned
+the very veracity of the “earlier transmission” (snga dar) or “earlier translations” (snga
+'gyur).[6] In this rather antagonistic climate, “Rongzom considered methods to advocate
+and prove the validity of the Nyingma tantras that were under attack.”[7] Rongzom’s hagiographies
+highlight his meeting with Atiśa, who is said to have identified him as an incarnation
+of the Indian mahāsiddha Kṛṣṇapāda. These sources also show him encountering other Sarma
+masters such as Gö Khukpa Lhetse (11th CE) and Marpa Chökyi Lodrö (1012–1097), who expressed
+great admiration, despite their original intention to denigrate him and the Nyingma
+tradition. Heidi Köppl points out, “To what degree these reported meetings with famous opponents
+have any historical reality is hard to estimate, yet the accounts are interesting
+as they underscore an atmosphere of tension and a quest for authenticity.”[8] This was the
+first moment in Tibetan history in which the adherents of the early Buddhist transmission
+found the legitimacy of their texts and practices under attack, establishing a precedent
+for actions that have continued, with varying degrees of intensity and persecution, for almost
+a millennium. The conflicts of this period are reflected in the tone of The Black Snake
+Discourse, which presents the Buddhist philosophical tenet systems (grub mtha') using the
+example of a black snake’s reflection in water.[9] After proposing how each of the lower
+schools would relate to such a reflection, Rongzompa concludes that only the followers of
+the Great Perfection arrive at a lucid and correct understanding of reality, namely, that
+the snake’s reflection warrants absolutely no response whatsoever. This leads to his unabashed
+assertion of the superiority of the Great Perfection and the Nyingma tradition as a
+whole. While the Sarma lineages generally regard the Madhyamaka as the highest view and apotheosis
+of Buddhist philosophy, Rongzom places it only second in his ascending schema of
+five. In his view, the Mādhyamikas lack even a modicum of the nondual awareness that realizes
+the inseparability of the relative and ultimate truths. Rongzom believes the Sūtrayāna
+to be inferior to any tantric view, even that of the outer tantras, in which the deity remains
+external to, and master over, the practitioner. With the inner tantras and the Vajrayāna
+practices of creation (bskyed rim) and generation (rdzogs rim) stage yogas, the practitioner
+develops a middling understanding of nondual awareness. However, it is only with
+the Great Perfection, the pinnacle of all Buddhist yānas, that the practitioner arrives at
+the “view of the inseparability of the ultimate and relative, what is intended by the designation
+of equality itself.” This text is only one of many in Rongzom’s corpus in which he
+vehemently argues for the supremacy of Mantra and esoteric Buddhism over the exoteric doctrine
+of Madhyamaka.Within this framework of the tenet systems, Rongzompa uses the terminology
+and reasoning of valid cognition (Skt. pramāṇa, Tib. tshad ma) to explain the non-conceptual
+Great Perfection teachings. Often called “Buddhist logic,” pramāṇa was central to
+the curricula of the monastic centres of philosophical learning and debate, such as Sangphu
+(gsang phu), which emerged in Tibet at this time. The Black Snake demonstrates how Rongzompa
+employed this dialectical method, but it simultaneously reveals the creative tension
+inherent in using logic to transcend logic (and all other concepts) to arrive at the nondual
+awareness of the Great Perfection. The treatise also bears some of the hallmarks of Rongzom’s
+distinctive literary style. For instance, he dives immediately into the content of
+his discourse, omitting the initial homage to the buddhas and bodhisattvas that is standard
+in nearly all Indian and Tibetan Buddhist treatises. As a translator of Sanskrit texts,
+he was clearly aware of the convention, and he even makes note of it in his treatise on linguistics,
+The Commentary on the Weapon of Speech (smra sgo mtshon cha’i 'grel).[10] Nevertheless,
+he excludes the homage in this and nearly all his other extant treatises.[11] He
+likewise simply ends the text with his final refutation and does not include the expected
+colophon to explain the context of his composition. These omissions lend the treatise an
+abruptness that sets it apart from the generally ornate works of the Indo-Tibetan Buddhist
+canon. Another mark of his iconoclastic style, evident in The Black Snake, is the lack of
+any appeal to authority, either to the Buddha or previous Buddhist masters, in support of
+his arguments. At this moment in the eleventh century, as debates raged over the legitimacy
+and authenticity of Buddhist texts, contemporary writers such as Atiśa infused their treatises
+with copious references to specific Buddhist scriptures to validate their own arguments.[12]
+Rongzom, by contrast, seems singularly unconcerned with establishing the legitimacy
+of his writings based on such appeals and “never claims his discussions are repetitions
+of previous statements of the Buddha.”[13] In the present text, he makes just one explicit
+reference to established Buddhist scriptures, and even this seems less about bolstering
+his argument and more about providing a comic, ridiculous image: that of a barren woman’s
+son’s complexion. The overall effect is to create a tone of dauntless self-assurance.A particular
+display of Rongzom’s literary genius comes at the end of the treatise. To the rhetorical
+question “Well then, what does your tradition assert?”, Rongzom responds, “We merely
+refute your wrong views without at all establishing any point of our own.” This reductio
+ad absurdum (reminiscent of Nāgārjuna’s famous claim to “have no thesis”), uses precisely
+the argumentation of the Prāsaṅgika Madhyamaka, held to be the highest view by many of
+the Sarma lineages, to establish the philosophical supremacy of the Great Perfection. Here,
+Rongzom demonstrates a deft understanding of the dialectical method emerging in Tibetan
+scholasticism, even as he undercuts this very philosophical position and asserts the superiority
+of the Nyingma view. Even though the source text is nearly a thousand years old, I
+hope that the present translation communicates some of its immediacy and vigour. I also hope
+that it provides a sense of how something so seemingly arcane as the philosophical tenet
+systems can have profound implications for our own subjective experience and how we engage
+with reality. May this translation be of benefit, and may we all be freed from our anxieties
+toward any reflections in the water![14] Further Reading (in English)Almogi, Orna. “Sources
+on the Life and Works of the Eleventh Century Tibetan Scholar Rong Zom Chos Kyi Bzang
+Po: A Brief Survey” in Henk Blezer, ed. Tibet, Past and Present. Tibetan Studies I: Proceedings
+of the Ninth Seminar of the International Association for Tibetan Studies, Leiden,
+2002, pp. 67–80.Dudjom Rinpoche. The Nyingma School of Tibetan Buddhism: Its Fundamentals
+and History. Trans. and ed. by Gyurme Dorje. Boston: Wisdom Publications, 1991, pp. 703-709.
+Köppl, Heidi. Establishing Appearances as Divine. Ithaca, NY: Snow Lion, 2008.Nyoshul
+Khenpo Jamyang Dorjé. A Marvelous Garland of Rare Gems: Biographies of Masters of Awareness
+in the Dzogchen Lineage: A Spiritual History of the Teachings of the Natural Great Perfection.
+Trans. by Richard Barron (Chökyi Nyima). Junction City, CA: Padma Publishing, 2005,
+p. 53. Sur, Dominic. “Rongzom Chokyi Zangpo.” Treasury of Lives, accessed August 10, 2021,
+https://treasuryoflives.org/biographies/view/Rongzom-Chokyi-Zangpo/TBRC_P3816___. Entering
+the Way of the Great Vehicle: Dzogchen as the Culmination of the Mahāyāna. Boulder, CO:
+Snow Lion, 2017. Almogi 2002, 67  ↩Ju Mipham, in particular, was deeply influenced by Rongzompa
+and sought to collect all his extant works. Mipham Rinpoche even composed a guru
+yoga sādhana with Rongzompa as the central deity entitled Shower of Blessings: A Guru Yoga
+of the Great Paṇḍita, Glorious Rongzom (dpal rong zom paN+Di ta chen po'i bla ma'i rnal 'byor
+byin rlabs char 'bebs).  ↩Quoted in Sur 2021.   ↩Sur 2021.  ↩Tucci, Giuseppe. Secrets
+of Tibet: Being the Chronicle of the Tucci Scientific Expedition to Western Tibet. Blackie
+& Son Limited: London and Glasgow, 1935: 165.  ↩Germano, David. “A Brief History of Nyingma
+Literature.” Tibetan and Himalayan Digital Archive. 2002.  ↩Köppl, Heidi. Establishing
+Appearances as Divine. Snow Lion Publications, 2008: 16.   ↩ibid. 18.  ↩When the term sbrul
+nag po appears in Tibetan canonical works it is usually a translation of the Sanskrit compound
+kṛṣṇasarpa (or a variant thereof) and refers specifically to the (black) cobra. (Information
+supplied by Stefan Mang.)  ↩ibid. 19.  ↩ibid. 19.  ↩See Atiśa’s most famous and
+important work, The Lamp for the Path to Enlightenment  ↩ibid. 19.  ↩The translator was introduced
+to this text while attending the 2019 Advanced Classical Tibetan summer course at
+the Rangjung Yeshe Institute, taught by Dr. David Higgins, under whose guidance I produced
+my first draft. I remain grateful for his instruction and exceptional understanding of
+Nyingma philosophical literature, which illuminated my own understanding of this discourse.
+While translating, particularly the conclusion, I referred to my class notes as well as
+a previous translation by Kunchok Joy. I am also grateful to Lowell Cook for his careful edits
+and feedback on an early draft.   ↩
+
+The Black Snake Discourse
+
+by Rongzom Chökyi Zangpo
+
+The specific views and conducts of the higher and lower vehicles may be understood, in short,
+as follows. Their various views are posited based on the appearance of bodies, environments,
+and spheres of activity, all of which can be subsumed under body, speech, and mind. However,
+as to the question of whether things do or do not appear: No matter if you are an
+individual who upholds the various textual traditions, or someone ranging from a beginner
+up to a bodhisattva on the tenth bhūmi, there is no debate. This is because no one can exaggerate
+or denigrate direct, immediately experienced appearances. Therefore, all debates about
+this arise from the status of the defining characteristics of appearances.
+
+In brief, there are five positions. Let us first offer an example. Consider, by way of analogy,
+a black snake reflected in water.
+
+One type of individual regards this as an actual snake and, driven by fear, actively seeks to
+get rid of it.
+
+One type of individual recognizes the snake as a reflection. Even though they know that it is
+not actually a snake, they see the reflection as capable of harm and, therefore, exert themselves
+in applying a remedy with skilful means.
+
+One type of individual recognizes the snake as a reflection, without the material support of
+the coarse elements and, therefore, lacking the ability to perform any action. However, driven
+by the force of previous anxiety, this individual is unable to touch or destroy it.
+
+One type of individual realizes the snake is a reflection and therefore incapable of performing
+any action. But, in order to swiftly free themselves of anxious thoughts, such individuals
+rely on ascetic discipline to touch and destroy the reflection.
+
+One type of individual knows the snake is a reflection and therefore has no thoughts of rejection
+or acceptance, and does nothing whatsoever.
+
+In this way, the philosophical tenets of the various Buddhist vehicles correspond with the meaning
+of the previous examples.
+
+The first of these is the tradition of the Śrāvakas. The Śrāvakas posit that phenomena, such
+as suffering and its sources, exist both relatively and ultimately, and exist as substantial
+entities. This belief compels them to see phenomena as genuinely real and to accept and
+reject them. This is like seeing the snake’s reflection as real and trying to get rid of
+it. In this system, among the four kinds of existence, the Śrāvakas affirm three: “ultimate
+existence,” “relative existence,” and “the substantial existence of both.”
+
+The second example corresponds to the Mādhyamikas of the Mahāyāna, since, for them, appearances
+are not substantially established but are like illusions. However, just as illusory poison
+can perform a function, thoroughly afflicted phenomena are likewise capable of harm if
+they are not embraced with skillful methods. When they are so embraced, phenomena perform
+beneficial functions. Because phenomena substantially exist at the relative level, the Mādhyamikas
+assert that they should be accepted and rejected. This is like asserting that although
+the snake is a reflection, its ability to perform a function substantially exists.
+Of the four kinds of existence, this system negates “ultimate existence” but retains “relative
+existence” and “imputed existence.”
+
+The third example corresponds to the outer ascetic tantras, Kriyā and Yoga. As all apparent
+phenomena are illusion-like, they are utterly without substance. Despite phenomena posing
+no fault or problem, through the force of previous anxiety, yogis in this tradition dare not
+act themselves, but they are able to summon an external hero. This is like knowing the
+snake’s reflection to be harmless, yet still being unable to touch it. In this system, among
+the four kinds of existence, “ultimate existence” and “substantial relative existence”
+are both refuted. However, “imputed relative existence” is retained. On top of asserting merely
+this system of the commonly held two truths, proponents of this tradition know there
+is no substantial relative existence. Through this system, one first attains, to a small
+degree, the view of equality in which the relative and the ultimate are realized to be inseparable.
+
+
+The fourth concerns the view of the inner tantras of Mahāyoga. Having mostly realized that all
+thoroughly afflicted phenomena are like illusions, and in order to swiftly put into practice
+the view of equality, the yogi engages in wonderous conduct. This is like swiftly eliminating
+fear for the mere reflection of the snake by practicing asceticism to destroy it.
+In this system, any grasping to imputed relative existence is extinguished even further,
+and these individuals are mostly free from grasping which views the truth dualistically.
+The yogis of this system attain, to a middling degree, an understanding of the inseparability
+of the two truths.
+
+The fifth relates to the view of the Great Perfection. Here, as everything is like an illusion,
+the proponent realizes that every action, such as rejection or fear, or actual destruction,
+arises from a view that clings to things as real. As phenomena are illusion-like, the
+yogi realizes they are without any basis to act upon; one neither rejects nor strives for
+anything whatsoever. In this system, the understanding of the illusion-like reaches its
+pinnacle through the awareness of the absence of defining characteristics of appearance. The
+yogi is liberated from even the subtlest clinging to ultimate or relative truths and is
+thereby liberated from any view whatsoever. This is termed the “view of the inseparability
+of the ultimate and relative, the realization of equality itself.”
+
+Actual, direct appearances arise through the force of latent tendencies and, therefore, do not
+immediately subside. Clinging, on the other hand, arises from adventitious, mistaken conceptions,
+and is easily reversed. Furthermore, clinging comes from grasping at defining characteristics,
+and this comes from a view of real entities. If these three concepts are overturned,
+a dualistic view of the truth will not arise, even if the appearances of intrinsically
+real entities are not reversed.
+
+Here, some might say, “The Mādhyamaka scriptural tradition does not ultimately divide the truth
+into two, and the Secret Mantra scriptural traditions do not refute appearance.” To this,
+we would answer:
+
+Individuals might evaluate objects of knowledge while keeping in mind that the defining characteristics
+of the two truths are truly established, but by doing so, they will never be able
+to abandon dualistic thinking. When they evaluate the position, “ultimately, the two truths
+are indivisible,” even the assertion that the relative truth exists as mere illusion
+has not been relinquished due to their strongly held belief in true establishment. Therefore,
+even when establishing the nondual nature of reality, their thinking arises dualistically.
+
+
+When evaluating the statement, “relatively, like an illusion,” we can see that “illusion-like”
+refers to conceptual elaborations, since the imputations of ultimate existence made by
+the Śrāvakas and Yogācārins have been pacified. However, “illusion-like” does not mean that
+phenomena are devoid of substantial functionality on a relative level.
+
+Here, even at the time of such evaluation, directly focusing on defining characteristics that
+are relatively established as substance, it is then claimed that “these are not actually
+established as real entities.” Therefore, the mind at this moment has not even given up the
+two systems.[1] This means that appearance—a property-possessor (Skt. dharmin, Tib. chos
+can)—is posited as an instance of characteristics (Skt. dṛṣṭānta, Tib. mtshan gzhi). As
+long as there exists in the mind the notion of being free from the properties or the conceptual
+elaborations of the instance, and as long as the property-possessor is perceived to
+exist as mere illusory appearance, then the obsessive mind that grasps to the defining characteristics
+of appearance has not been reversed. Someone like this cannot be said to possess
+the view of great equality.
+
+Consequently, investigating objects of knowledge by focusing the mind on the distinction between
+the two truths was taught as an antidote for those people with excessive, obsessive clinging
+to real entities. However, in the very nature of phenomena, there are no dual characteristics.
+Whosoever reverses grasping to characteristics is free from this obsessive clinging.
+When one experiences no craving or wishful thought toward anything that appears, this
+is called “the view of great equality.”
+
+There might be a further question: “Is not mere appearance itself relative?” This was already
+explained above with regard to any person who believes appearance to be relative and that
+freedom from conceptual elaborations regarding this is the ultimate. For the mind that does
+not believe in the reality of the two truths, the scriptures teach that to ask whether
+the truths are one or two is analogous to asking whether the son of a barren woman is blue
+or white.
+
+Someone might then ask: “Well then, what does your tradition assert?” We merely refute your
+wrong views without at all establishing any point of our own. This, conventionally speaking,
+is called “the view of great equality,” but there is no clinging whatsoever to it as a
+metaphysical view.
+
+| Translated by Patrick Dowd, 2021
+
+Version: 1.1-20210908
+
+Here Rongzompa refers to concepts belonging to the Śrāvaka and Yogācārin systems.  ↩
